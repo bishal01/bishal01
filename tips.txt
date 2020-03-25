@@ -1,0 +1,2 @@
+create static folder 
+python manage.py collectstatic
